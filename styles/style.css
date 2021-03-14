@@ -143,7 +143,7 @@ img{
 
 /* */
 .darkblue__container{
-    background-color: var(--grayish-blue);
+    background-color: var(--blackish-blue);
     grid-column: 1 / -1;
 }
 
